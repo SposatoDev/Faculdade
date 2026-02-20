@@ -12,7 +12,7 @@ Esses objetos juntam **dados** (atributos) e **ações** (métodos).
 - Dá para separar melhor as responsabilidades de cada parte do sistema.
 
 ## 3) O que é um objeto na POO?
-Um **objeto** é uma “coisa” do programa que tem:
+Um **objeto** é uma instância do programa que tem:
 - atributos (informações, ex.: nome, idade, saldo)
 - métodos (ações, ex.: calcular, cadastrar, depositar)
 
