@@ -1,7 +1,7 @@
 # POO — Respostas
 
 ## 1) O que é Programação Orientada a Objetos?
-É um jeito de programar onde a gente organiza o sistema usando **objetos**, que representam coisas do mundo real (ou ideias do sistema).
+É um modelo de programação onde o sistema é organizado utilizando **objetos**, que representam coisas do mundo real (ou ideias do sistema).
 Esses objetos juntam **dados** (atributos) e **ações** (métodos).
 
 ## 2) Vantagens da POO em relação à programação estruturada
