@@ -1,4 +1,3 @@
-# Faculdade
+# POO Atividades
 
-## Disciplinas
-- [POO - Atividade 01 (Respostas)](poo/atividade-01/README.md)
+This folder contains answers related to POO (Programação Orientada a Objetos) for atividade-01.
