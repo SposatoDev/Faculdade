@@ -1,6 +1,4 @@
-# Sequência de Fibonacci (Recursividade) — C
-
-## Código
+## Exemplo em C: Sequência de Fibonacci (recursão)
 
 ```c
 #include <stdio.h>
