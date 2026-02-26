@@ -1,4 +1,4 @@
 # Faculdade
 
 ## Disciplinas
-- [POO — Atividade 01](poo/atividade-01/README.md)
+- [PROGRAMAÇÃO ORIENTADA A OBJETOS](poo/)
