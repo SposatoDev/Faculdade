@@ -14,7 +14,7 @@ GO
 
 CREATE TABLE OFICINA (
     cod BIGINT PRIMARY KEY,
-    cnpj BIGINT NOT NULL,
+    cnpj VARCHAR(14) NOT NULL,
     nome VARCHAR(100) NOT NULL,
     responsavel VARCHAR(100) NOT NULL,
     telefone VARCHAR(20) NOT NULL,
@@ -106,11 +106,7 @@ CREATE TABLE TESTE (
         FOREIGN KEY (cod_tecnico) REFERENCES TECNICO(cod_funcional)
 );
 GO
-
--- ============================================
--- RELACIONAMENTO N:N
--- TECNICO é perito em MODELO
--- ============================================
+    
 
 CREATE TABLE TECNICO_MODELO (
     cod_tecnico BIGINT,
