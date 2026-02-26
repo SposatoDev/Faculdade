@@ -1,4 +1,4 @@
-import atividade-02;
+package atividade-02;
 
 public class Medico {
 
