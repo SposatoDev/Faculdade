@@ -9,7 +9,7 @@ public class Medico {
   public String senha;
 
   public void acessar () {
-    System.out.println("Sistema acessado! Médico: " + nome)
+    System.out.println("Sistema acessado! Médico: " + nome);
   }
 
   public void mostrar() {
